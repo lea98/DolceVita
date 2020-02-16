@@ -1,0 +1,33 @@
+
+.infoStil{
+background-color:white;
+width:300px;
+padding:1em;
+margin:1em;
+border-style:solid;
+border-color:pink;
+}
+
+.infoKlasa h2{
+    text-align: center;
+}
+.infoKlasa h1{
+text-align: center;
+font-size: 3em;
+margin:2em 0 1em 0;
+}
+
+ .cart img:hover{
+    transform: scale(1.5);
+}
+
+.mobileLogos{
+    height:50px;
+    width:50px;
+    border-radius:50%;
+}
+
+.mobileDivs{
+    margin-bottom:2em;
+    text-align: center;
+}

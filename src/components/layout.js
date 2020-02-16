@@ -1,51 +1,54 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
 import React from "react"
-import PropTypes from "prop-types"
-import { useStaticQuery, graphql } from "gatsby"
-
-import Header from "./header"
+import Navigation from "./navigation"
 import "./layout.css"
 
-const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
+const menuItems=[ 
+  {
+    text:"HOME",
+    link: "/",
+  },
+  {
+    text:"PONUDA",
+    link: "/ponuda",
+  },
+  {
+    text:"NARUČI",
+    link: "/naruci",
+  },
+  {
+    text:"INFO",
+    link: "/info",
+  },
+ 
+  {
+    text:"BLOG",
+    link: "/blog",
+  },
 
-  return (
-    <>
-      <Header siteTitle={data.site.siteMetadata.title} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
-        }}
-      >
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </div>
-    </>
-  )
+]
+
+
+
+
+//const myStyles= {backgroundColor: "tomato", height: "100vh"}
+
+//drugi nacin: <div className="layout">
+
+const Layout = (props) => {
+return(
+ // tu moze style={myStyles} 
+ <div> 
+  <Navigation menuItems={menuItems}/>
+  {props.children}
+
+
+  
+  </div>
+)
 }
 
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
-}
 
 export default Layout
+
+//strelica return i kad zelimo vratit jednu komponentu npr. div ne tribaju nikakve zagrade, a kad nesto radimo, ispisujemo triba nam return 
+//ako je vise stvari
