@@ -1,20 +1,25 @@
 --- 
-title: "Za sve ljubitelje kokosa"
-date: "02.03.2018"
+title: "Tortda od sira"
+date: "17.10.2019"
 ---
 
 1.
-LJEŠNJAKE popecite u rerni da potamne, ohladite ih pa ih kroz ruke trljajte da im otpadne korica. u malo boljim trgovinama imate za kupiti već oguljene i popečene.( ja kupim gotove.) stavite ih u čvršću krpu i malo ih stucite batom za meso, ali tako da ostanu i malo krupniji komadići.
+Brašno prosijte na dasku, pa ga pomiješajte s maslacem narezanim na listiće. U sredini napravite udubinu, u koju stavite šećer, žumanjke, sol i limunovu koricu.
 
 2.
- BISKVIT
-bjelanjke tucite u čvrsti snijeg, dodajte šećer i na kraju lagano ubatite brašno najmanjom brzinom miksera.
-kalup za torte promjera 26 cm namažite maslom, pobrašnite a na dno stavite masni papir.
-na masni papir rasporedite istučene lješnjake i na njih oprezno rasporedite bjelanjke.
-pecite 10-ak minuta na 180 °c. dok dobije malo boju. ohladite.
-ohlađeni biskvit prevrnite na pladanj da vam biskvit bude dolje a lješnjaci na vrhu. lagano dignite masni papir. vratite obruč od forme za tortu.
+Brzo miješajte sve sastojke od sredine prema van, pa zamijesite gipko tijesto. Oblikujte ga u kuglu, zamotajte u papir za pečenje i stavite u hladnjak na 2 sata.
 
 3.
- KREMA
-uvrite 8 dcl mlijeka sa vanil šećerom.
-batite žumanjke sa šećerom. dodajte 2 vanil pudinga, 2 žlice brašna i dva dcl mlijeka. to ukuhajte u uvrelo mlijeko kao puding.ohlaadite uz povremeno miješanje da se ne stvori kožica.( ja stavim kremu s posudom u kojoj se kuhala u sudoper s hladnom vodom ide puno brže i miješam povremeno mikserom )
+Pećnicu zagrijte na 200°C. Tijesto razvaljajte u dva jednaka kruga promjera 26 cm, položite na lim i pecite jedno do drugog 10 minuta na srednjoj prečki da postanu svijetlosmeđi. Jedan još vrući krug narežite na 12 jednakih komada, pa ih ostavite da se ohlade.
+
+4.
+Želatinu namočite u hladnoj vodi. Šećer, žumanjke i dio mlijeka tucite, a ostalo mlijeko zakipite. Dodajte smjesu žumanjaka i miješajte pjenjačom dok ne zavri, dodajte ocijeđenu želatinu, promiješajte da se otopi, pa maknite s vatre da se ohladi.
+
+5.
+U međuvremenu, istucite slatko vrhnje. Kad se mliječna mješavina počne zgušnjavati, dodajte joj razrađeni sir s limunovom koricom i tučeno vrhnje.
+
+6.
+Krugom od papira za pečenje pokrijte dno kalupa za tortu, a stijenku trakom. Na dno stavite narezani krug od tijesta, a na njega stavite kremu od sira. Izravnajte joj površinu i stavite kalup u hladnjak da krema do kraja očvrsne.
+
+7.
+Izvadite tortu iz kalupa, odstranite zalijepljen papir, odozgo posložite narezano prhko tijesto i pospite šećerom u prahu.

@@ -10,7 +10,7 @@ const Blog = () => {
 
     const data = useStaticQuery(graphql`
     query {
-        allMarkdownRemark(filter: {fields: {slug: {regex: ""}}}) {
+        allMarkdownRemark(filter: {fields: {slug: {regex: ""}}}, sort: { fields: [frontmatter___date], order: DESC }) {
             edges {
               node {
                 fields {
@@ -58,4 +58,6 @@ return (
 }
 
 export default Blog
+
+
 
