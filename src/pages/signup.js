@@ -3,15 +3,18 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 //import SEO from "../components/seo"
+import "./info.css"
 
 const signup = () => (
   <Layout>
     <div id="signup-page">
-      
+    <div style={{display:"flex", flexWrap: "wrap",justifyContent: "center",marginBottom:"10em"}}>
+
+<div className="infoStil">
 
     <h1 style={{textAlign:"center",fontSize:"3em"}}>SIGN UP</h1>
     <h6 style={{textAlign:"center",fontSize:"1em",marginBottom:"2em"}}>Registrirajte se da biste imali više informacija i lakše naručivali željene proizvode. </h6>
-      <li style={{borderStyle:"solid",borderColor:"pink",marginBottom:"auto",backgroundColor:"white"}}>
+      <li>
         
       <form action="/" method="GET" className="input-form">
         <input placeholder="Korisnicko ime" name="username" required></input>
@@ -26,7 +29,10 @@ const signup = () => (
         <button type="submit">Sign Up</button>
       </form>
       </li>
-    </div>
+      </div>
+      </div>
+      </div>
+
     </Layout>
 )
 
