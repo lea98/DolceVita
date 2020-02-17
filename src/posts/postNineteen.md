@@ -1,6 +1,6 @@
 --- 
 title: "Domaći sladoled"
-date: "03.01.2020"
+date: "12/15/2019"
 ---
 
 1.

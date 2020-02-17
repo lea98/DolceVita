@@ -1,6 +1,6 @@
 --- 
 title: "Za sve ljubitelje čokolade"
-date: "14.09.2019"
+date: "03/02/2019"
 ---
 
 1.

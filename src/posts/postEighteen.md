@@ -1,6 +1,6 @@
 --- 
 title: "Banana split"
-date: "27.12.2019"
+date: "12/10/2019"
 ---
 
 1.

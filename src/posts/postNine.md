@@ -1,6 +1,6 @@
 --- 
 title: "Rolada s bananama"
-date: "07.11.2019"
+date: "07/31/2019"
 ---
 
 1.

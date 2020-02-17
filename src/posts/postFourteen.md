@@ -1,6 +1,6 @@
 --- 
 title: "Jednostavan čokoladni kolač sa sjajnom glazurom"
-date: "30.11.2019"
+date: "10/18/2019"
 ---
 
 1.

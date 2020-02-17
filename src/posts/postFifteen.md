@@ -1,6 +1,6 @@
 --- 
 title: "Torta od bijele čokolade i malina"
-date: "05.12.2019"
+date: "10/29/2019"
 ---
 
 1.

@@ -1,6 +1,6 @@
 --- 
 title: "Recept za novu ukusnu tortu"
-date: "02.02.2019"
+date: "02/10/2019"
 ---
 
 1.

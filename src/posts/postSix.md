@@ -1,6 +1,6 @@
 --- 
 title: "Kikiriki fantazija"
-date: "25.10.2019"
+date: "05/11/2019"
 ---
 
 1.
